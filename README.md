@@ -1,6 +1,3 @@
-## Hi there 👋
-## Here all about me 
-
 # Sanskar Patil
 
 Building ideas, exploring digital systems, and learning through real experiences.
