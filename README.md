@@ -1,47 +1,18 @@
-# Sanskar Patil
+# 💫 About Me:
+👨‍💻 I'm currently working on AI-powered applications, Google Cloud projects, and IoT solutions.<br><br>🤝 I'm looking to collaborate on AI, Cloud Computing, Open Source, and innovative software projects.<br><br>🌱 I'm currently learning Google Cloud Platform, Data Engineering, Generative AI, System Design, and Advanced Python.<br><br>💬 Ask me about Python, Google Cloud, Firebase, Android Development, AI Tools, Data Analytics, SEO, and Prompt Engineering.<br><br>🚀 My goal is to build practical software that solves real-world problems through AI and modern technologies.<br><br>⚡ Fun fact: I believe the best way to learn technology is by building real projects, participating in hackathons, and experimenting with new ideas.
 
-Building ideas, exploring digital systems, and learning through real experiences.
 
----
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/BuiltBySanskar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sanskar Patil) 
 
-## About Me
-
-I enjoy exploring technology, creativity, branding, and digital projects. Most of my learning comes from experimenting with real things, understanding how systems work behind the scenes, and continuously improving through practical experience.
-
-Instead of focusing on only one field, I like learning different skills that connect technology, creativity, communication, and digital growth.
-
----
-
-## Things I’ve Explored
-
-* WordPress & Plugin Management
-* SEO & Keyword Research
-* Blogging & Content Writing
-* Affiliate Marketing
-* Google Search Console
-* Domains, Hosting & SSL
-* AdSense & Ad Networks
-* Website Management
-* Theme Customization
-* Branding & Product Presentation
-* Startup & Digital Business Concepts
-* Python & Data Projects
-* UI, Creativity & Digital Tools
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=BuiltBySanskar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=BuiltBySanskar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BuiltBySanskar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=BuiltBySanskar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## What I Like
-
-* Building Digital Projects
-* Learning Practical Skills
-* Exploring New Ideas
-* Understanding Online Systems
-* Creative Problem Solving
-* Improving Step by Step
-
----
-
-## Current Focus
-
-Currently exploring new technologies, improving my skills, and building projects that help me grow creatively and professionally.
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
