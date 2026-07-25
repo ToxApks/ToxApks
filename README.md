@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=builtbysanskar&label=Profile%20views&color=0e75b6&style=flat" alt="builtbysanskar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=builtbysanskar" alt="builtbysanskar" /></a> </p>
-
 - 🔭 I’m currently working on **AI-powered IoT Smart Electricity Saving System**
 
 - 🌱 I’m currently learning **Google Cloud Platform (GCP), Vertex AI, BigQuery, Firebase, Data Engineering, Generative AI, System Design**
